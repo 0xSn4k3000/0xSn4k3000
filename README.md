@@ -1,5 +1,5 @@
 ### Mohammed Mahdi | 0xSn4k3000
-![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/0xSn4k3000/0xSn4k3000/blob/main/banner.jpeg))
+![](https://raw.githubusercontent.com/0xSn4k3000/0xSn4k3000/main/banner.jpeg)
 
 I'm a guy who wanna be a RedTeamer , I like every thing about tech, and what i like more is hacking it
 
