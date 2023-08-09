@@ -8,6 +8,11 @@ I'm a guy who wanna be a RedTeamer , I like every thing about tech, and what i l
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bash,c,py,js,java" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,postman,vim" />
   </a>
 </p>
