@@ -4,16 +4,16 @@
 I'm a guy who wanna be a Red-Teamer , I like every thing about tech, And what i like more is hacking it 
 
 # I Do:
-Network Pentesting
-Web Pentesting
-Api Pentesting
-Mobile Pentesting
-IoT Pentesting
-Reverse Engineering
-Pwning
+Network Pentesting\n
+Web Pentesting\n
+Api Pentesting\n
+Mobile Pentesting\n
+IoT Pentesting\n
+Reverse Engineering\n
+Pwning\n
 And more ^_^!!
 
-# I blog at : f36.team/publisher/0xSn4k3000
+I blog at : [F36-Team](#https://f36.team/publisher/0xSn4k3000)
 
 ## Skills
 <p align="center">
