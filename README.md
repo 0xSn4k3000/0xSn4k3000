@@ -11,9 +11,8 @@ I'm a guy who wanna be a Red-Teamer , I like every thing about tech, And what i 
 5. IoT Pentesting
  - Reverse Engineering
  - Pwning
-
-And more ^_^!!
-
+And all of require scripting with python ^_^!!
+ sn4k3 🐍 -> pyth0n
 
 
 ## Skills
